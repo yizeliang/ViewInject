@@ -1,0 +1,1 @@
+include ':app', ':viewinject-complie', ':ViewInject', ':viewinject-annotation'
